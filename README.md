@@ -1,20 +1,14 @@
-### नमस्ते 🙏
+### नमस्ते 🙏 I'm Saniddhya Nigam
 
-#### I'm a Front-End Developer working in @Epam_Systems, India.
-<!--
-**Sanidhya22/Sanidhya22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Front-End Developer working in **[@epam_systems](https://www.epam.com)**, India.
 
-Here are some ideas to get you started:
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg)]([https://linkedin.com/in/sambhav2612](https://www.linkedin.com/in/sanidhya-nigam-99a44a199/))
+[![mail](https://img.shields.io/badge/gmail-D14836)](mailto:sanidhyanigam99@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at **[@epam](https://www.epam.com)**
+- ⚙️ I use daily: `.js`, `.jsx`, `.css`, `.scss`
+- 🌱 Working on Fullstack (JS + TS)
+- 💬 Ping me about **react**, **fullstack**, **development**, **design**
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
