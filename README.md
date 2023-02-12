@@ -2,7 +2,7 @@
 
 #### I'm a Front-End Developer working in **[@epam_systems](https://www.epam.com)**, India.
 
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg)]([https://linkedin.com/in/sambhav2612](https://www.linkedin.com/in/sanidhya-nigam-99a44a199/))
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg)](https://www.linkedin.com/in/sanidhya-nigam-99a44a199/)
 [![mail](https://img.shields.io/badge/gmail-D14836)](mailto:sanidhyanigam99@gmail.com)
 
 - 🏢 I'm currently working at **[@epam](https://www.epam.com)**
